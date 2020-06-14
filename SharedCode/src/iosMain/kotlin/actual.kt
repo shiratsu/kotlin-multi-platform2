@@ -1,4 +1,4 @@
-package com.jetbrains.handson.app.mobile
+package com.jetbrains.handson.mpp.mobile
 
 import platform.UIKit.UIDevice
 
